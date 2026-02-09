@@ -22,8 +22,8 @@ Although I won't be on a computer frequently, I can try helping with something a
 *(if anyone is wondering, i'm currently single xD)*
 
 # Contact me
-- Discord: **matheuslugami**
-- Telegram: **matheuslugami**
-- Instagram: **matheuslugami**
+- Discord: **@1fmt/@rwhz**
+- Telegram: **@matheuslugami**
+- Instagram: **@theusfmt**
 - E-mail: **lugami@memeware.net**</br>
 > Mostly online from **12:00 - 23:00.**</br>
