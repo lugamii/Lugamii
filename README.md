@@ -4,7 +4,7 @@ Hello, you're looking at Lugami's GitHub profile! </br>
 
 # Who am I?
 I am **Matheus**, a.k.a **Lugami**.</br>
-I'm a male, 15 years old *(04/November)*, currently living in Brazil (s/o brazillian homies ❤️)</br>
+I'm a male, 16 years old *(04/November)*, currently living in Brazil (s/o brazillian homies ❤️)</br>
 I'm interested in **Java, Kotlin, C#, Python, and a tiny little bit in PHP.**</br>
 - I have ASD (Autism Spectrum Disorder, level 1) and my MBTI (Myers-Briggs Type Indicator) is ISTP.
 - So if I happen to act weird sometimes, it MIGHT be related to that. (although I can sometimes act weird just because I want to, so yeah lol)
