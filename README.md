@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Matheus (Matt) and I'm a software developer, from Brazil</h2>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lugamii/lugamii/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/lugamii/lugamii/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media.tenor.com/Jh3hPFf-mAcAAAAj/u-i-a-cat.gif"  />
 
 ###
@@ -51,13 +42,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=matheuslugami&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lugamii/lugamii/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lugamii/lugamii/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lugamii/lugamii/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
